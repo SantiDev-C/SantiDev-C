@@ -43,14 +43,3 @@ Currently studying at **Escuela DaVinci** and building games with **Unity & C#**
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santinoch.itch.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-e8c44a?style=for-the-badge&logo=githubpages&logoColor=black)](https://santidev-c.github.io/github-portfolio)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiDev-C&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e8c44a&icon_color=e8c44a&text_color=f0f0f0" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiDev-C&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e8c44a&text_color=f0f0f0" alt="Top Languages" />
-</p>
