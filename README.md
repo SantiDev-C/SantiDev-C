@@ -9,7 +9,7 @@ Currently studying at **Escuela DaVinci** and building games with **Unity & C#**
 
 - 🔨 Currently working on **[CivilDeck](https://santinoch.itch.io/civildeck)** — a strategy deck-builder set in medieval civilizations
 - 🎓 Technical Degree in Video Game Development @ Escuela DaVinci (2022 – present)
-- 🌐 Check out my portfolio: **[santinochemez.github.io/github-portfolio](https://santidev-c.github.io/github-portfolio)**
+- 🌐 Check out my portfolio: **[santidev-c.github.io/github-portfolio](https://santidev-c.github.io/github-portfolio)**
 - 📬 Reach me at: **santinochemez423@gmail.com**
 
 ---
@@ -37,6 +37,14 @@ Currently studying at **Escuela DaVinci** and building games with **Unity & C#**
 
 ---
 
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santinochemez/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santinoch.itch.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8c44a?style=for-the-badge&logo=githubpages&logoColor=black)](https://santidev-c.github.io/github-portfolio)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -46,11 +54,3 @@ Currently studying at **Escuela DaVinci** and building games with **Unity & C#**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiDev-C&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e8c44a&text_color=f0f0f0" alt="Top Languages" />
 </p>
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santinochemez/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://santinoch.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8c44a?style=for-the-badge&logo=githubpages&logoColor=black)](https://santidev-c.github.io/github-portfolio)
